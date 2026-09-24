@@ -5,7 +5,9 @@
 Profissional de TI com experiência em **Segurança da Informação, infraestrutura, suporte e administração de ambientes corporativos**.
 
 Atuei por mais de 3 anos com Segurança da Informação, trabalhando com análise de phishing, Microsoft Defender, controle de acessos, proxy, vulnerabilidades e conscientização de usuários.
-Atualmente atuo na **Vulcan.Bor - Grupo WLS**, conduzindo projetos de infraestrutura, servidores, virtualização, redes e Active Directory.
+
+Hoje, na Vulcan.Bor (Grupo WLS), levo esse olhar de segurança para a infraestrutura: Estou conduzindo, do zero, a implementação da nova infraestrutura de servidores da matriz e da filial. Já concluí a configuração do Hyper-V, de 2 VMs Windows Server, IP fixo e DNS, com a comunicação entre os servidores validada. A próxima etapa é a implantação do Active Directory..
+
 ---
 
 ## 🛠️ No que eu trabalho
