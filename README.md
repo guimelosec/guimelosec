@@ -1,6 +1,6 @@
 # Olá! Eu sou o Guilherme Melo 👋
 
-### 🛡️ Segurança da Informação | Blue Team | Infraestrutura de TI | Java em formação
+### 🛡️ Segurança da Informação | Blue Team | Infraestrutura de TI
 
 Profissional de TI com experiência em **Segurança da Informação, infraestrutura, suporte e administração de ambientes corporativos**.
 
